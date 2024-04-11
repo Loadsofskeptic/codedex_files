@@ -5,6 +5,6 @@ for_codedex_submissions
 <h1>❓JS-PROJECT</h1>
 <ul>
   <li>✅FizzBuzz</li>
-  <li>❓Horoscope</li>
-  <li>❓Leap-Year-Checker</li>
+  <li>✅Horoscope</li>
+  <li>✅Leap-Year-Checker</li>
 </ul>
